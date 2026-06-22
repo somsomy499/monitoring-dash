@@ -1,0 +1,1 @@
+from .monitor import ModelMonitor\n__version__ = "1.0.0"\n
